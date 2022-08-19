@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22a2a756-23fb-4ccb-ae31-f9b7cdad3298" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2B8zjbUFlNaRZEABdej9RWJ48FN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../11_Consuming_RESTful_APIs_Part_1/lecture" />
+  </component>
+  <component name="RunManager" selected="JUnit.JdbcTimesheetDaoTests">
+    <configuration name="JdbcTimesheetDaoTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcTimesheetDaoTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTimesheetDaoTests.createTimesheet_returns_timesheet_with_id_and_expected_values" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcTimesheetDaoTests" />
+      <option name="METHOD_NAME" value="createTimesheet_returns_timesheet_with_id_and_expected_values" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTimesheetDaoTests.created_timesheet_has_expected_values_when_retrieved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcTimesheetDaoTests" />
+      <option name="METHOD_NAME" value="created_timesheet_has_expected_values_when_retrieved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTimesheetDaoTests.deleted_timesheet_cant_be_retrieved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcTimesheetDaoTests" />
+      <option name="METHOD_NAME" value="deleted_timesheet_cant_be_retrieved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTimesheetDaoTests.getTimesheetsByProjectId_returns_list_of_all_timesheets_for_project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcTimesheetDaoTests" />
+      <option name="METHOD_NAME" value="getTimesheetsByProjectId_returns_list_of_all_timesheets_for_project" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JdbcTimesheetDaoTests" />
+        <item itemvalue="JUnit.JdbcTimesheetDaoTests.created_timesheet_has_expected_values_when_retrieved" />
+        <item itemvalue="JUnit.JdbcTimesheetDaoTests.deleted_timesheet_cant_be_retrieved" />
+        <item itemvalue="JUnit.JdbcTimesheetDaoTests.createTimesheet_returns_timesheet_with_id_and_expected_values" />
+        <item itemvalue="JUnit.JdbcTimesheetDaoTests.getTimesheetsByProjectId_returns_list_of_all_timesheets_for_project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22a2a756-23fb-4ccb-ae31-f9b7cdad3298" name="Changes" comment="" />
+      <created>1656302638380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656302638380</updated>
+    </task>
+    <servers />
+  </component>
+</project>

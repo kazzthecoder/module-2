@@ -1,0 +1,42 @@
+Bug 1
+-----
+Test that demonstrates problem:  getTimesheetsByEmployeeId_returns_list_of_all_timesheets_for_employee
+
+Expected output: getTimesheets should return a list of all timesheets. For example two timesheets for an id of '1'
+
+Actual output: getTimesheets only returned one timesheet for an employee id of '1'
+
+How did you fix this bug? I changed the if statement in method to a while loop to continue populating the list
+
+
+Bug 2
+-----
+Test that demonstrates problem:getTimesheetsByProjectId_returns_list_of_all_timesheets_for_project
+
+Expected output: getTimesheetsByProjectId should return a list of timesheets using the project_id. For example 3 timesheets for a project_id of '1'
+
+Actual output: getTimesheetsByProjectId should return a list of 3 timesheets for a project_id of '1'
+
+How did you fix this bug? I replaced the sql statement's WHERE statement to use project_id instead of employee_id.
+
+
+Bug 3
+-----
+Test that demonstrates problem: getBillableHours_returns_correct_total
+
+Expected output: getBillableHours should return a sum of hours from imputed id's where billable is set to true.
+
+Actual output: getBillableHours returned the sum of all hours even those not billable.
+
+How did you fix this bug? I updated the WHERE clause to only retrieve those that have billable equals 'true'.
+
+
+Bug 4
+-----
+Test that demonstrates problem: updated_timesheet_has_expected_values_when_retrieved
+
+Expected output: updated_timesheet should equal returned timesheet from query
+
+Actual output: Updated timesheet didn't set billable to 'true' or 'false'.
+
+How did you fix this bug? I updated SQL statement to set value for billable and added isBillable() to timesheet.

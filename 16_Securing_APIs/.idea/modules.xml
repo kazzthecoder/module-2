@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/16_Securing_APIs.iml" filepath="$PROJECT_DIR$/.idea/16_Securing_APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/client/authentication-exercise-client.iml" filepath="$PROJECT_DIR$/exercise/client/authentication-exercise-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/server/authentication-exercise-server.iml" filepath="$PROJECT_DIR$/exercise/server/authentication-exercise-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial/client/authentication-tutorial-client.iml" filepath="$PROJECT_DIR$/tutorial/client/authentication-tutorial-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-final/client/authentication-tutorial-client-final.iml" filepath="$PROJECT_DIR$/tutorial-final/client/authentication-tutorial-client-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial/server/authentication-tutorial-server.iml" filepath="$PROJECT_DIR$/tutorial/server/authentication-tutorial-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-final/server/authentication-tutorial-server-final.iml" filepath="$PROJECT_DIR$/tutorial-final/server/authentication-tutorial-server-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture/client/m02d16-authentication-lecture-client.iml" filepath="$PROJECT_DIR$/lecture/client/m02d16-authentication-lecture-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture/server/m02d16-authentication-lecture-server.iml" filepath="$PROJECT_DIR$/lecture/server/m02d16-authentication-lecture-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+2022-06-28T18:17:19.5241763 This is a RestClientResponseException
+2022-06-28T18:17:19.6096524 This is a ResourceAccessException
+2022-06-28T18:17:19.6162284 This is a RestClientResponseException
+2022-06-28T18:17:19.6326594 This is a ResourceAccessException
+2022-06-28T18:20:09.0228589 This is a RestClientResponseException
+2022-06-28T18:20:09.0858416 This is a ResourceAccessException
+2022-06-28T18:20:09.0858416 This is a RestClientResponseException
+2022-06-28T18:20:09.1042642 This is a ResourceAccessException
+2022-06-28T18:24:52.6711017 This is a RestClientResponseException
+2022-06-28T18:24:52.7488463 This is a ResourceAccessException
+2022-06-28T18:24:52.7647385 This is a RestClientResponseException
+2022-06-28T18:24:52.7691147 This is a ResourceAccessException
+2022-06-28T18:25:32.5324253 This is a RestClientResponseException
+2022-06-28T18:25:32.5479685 Error connection to server. Msg: This is a ResourceAccessException
+2022-06-28T18:25:32.5642652 This is a ResourceAccessException
+2022-06-28T18:25:32.5642652 This is a RestClientResponseException
+2022-06-28T18:25:32.5642652 Error response. Status: TestingMsg: This is a RestClientResponseException
+2022-06-28T18:25:32.5797331 This is a ResourceAccessException

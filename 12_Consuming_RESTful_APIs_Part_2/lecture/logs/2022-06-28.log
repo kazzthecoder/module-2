@@ -1,0 +1,2 @@
+2022-06-28T10:27:19.9467067 I/O error on GET request for "http://localhost:3000/hotels": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-06-28T10:28:42.3270431 Error connecting to server. Msg: I/O error on POST request for "http://localhost:3000/reservations": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
